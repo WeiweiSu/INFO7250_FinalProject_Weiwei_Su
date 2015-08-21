@@ -16,10 +16,10 @@
 <link href="resources/font-awesome/css/font-awesome.min.css"
 	rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="resources/css/d3.slider.css" />
-<link href="resources/css/metricsgraphics.css" rel="stylesheet"
+<!-- <link href="resources/css/metricsgraphics.css" rel="stylesheet"
 	type="text/css"> 
 <link href='resources/css/metricsgraphics-demo-dark.css'
-	rel='stylesheet' type='text/css'> 
+	rel='stylesheet' type='text/css'>  -->
 <!-- font -->
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300'
 	rel='stylesheet' type='text/css'>
